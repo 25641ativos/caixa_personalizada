@@ -1,0 +1,6 @@
+{
+  "name": "Caixinhas Criativas - +1.000 Projetos de Personalizados",
+  "description": "Biblioteca criativa de moldes e projetos de personalizados prontos para imprimir, montar e vender.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,238 @@
+{
+  "a": [
+    {
+      "q": "Eu preciso ter experiência com papelaria ou artesanato?",
+      "a": "Não. Os moldes foram feitos para quem está começando do zero. A videoaula passo a passo mostra exatamente como montar — qualquer pessoa consegue, mesmo sem nunca ter feito nada antes."
+    },
+    {
+      "q": "Eu preciso desenhar ou criar algo?",
+      "a": "Não. Tudo já vem pronto. Você só imprime, monta e vende."
+    },
+    {
+      "q": "Preciso de muitos materiais para começar?",
+      "a": "Não. Você basicamente vai precisar de papel, cola e tesoura. O custo de produção é mínimo e a margem de venda é alta."
+    },
+    {
+      "q": "Dá para fazer usando só o celular?",
+      "a": "Sim. Você acessa tudo pelo celular, monta os produtos e já pode começar a vender no mesmo dia."
+    },
+    {
+      "q": "Onde posso vender esses produtos?",
+      "a": "Pelo WhatsApp, Instagram, Facebook e grupos. Os moldes são dos produtos mais procurados do mercado. Você monta, fotografa e divulga. O Bônus de 100 Mensagens Prontas e as +400 Figurinhas te ajudam a chamar clientes na hora."
+    },
+    {
+      "q": "Em quanto tempo eu consigo começar a vender?",
+      "a": "Em 10 a 15 minutos você já tem o primeiro produto pronto. Muitas clientes fizeram a primeira venda ainda no dia que compraram."
+    },
+    {
+      "q": "Isso realmente funciona?",
+      "a": "Sim. Mais de 6.195 mulheres já acessaram e estão vendendo com os moldes. E se por qualquer motivo não funcionar pra você, devolvemos 100% do seu dinheiro em até 30 dias — sem perguntas."
+    },
+    {
+      "q": "O acesso é por quanto tempo?",
+      "a": "O acesso é imediato e vitalício. Você paga uma vez e acessa para sempre."
+    },
+    {
+      "q": "Funciona em qualquer impressora?",
+      "a": "Sim. Qualquer impressora doméstica comum serve. Você também pode imprimir em copiadora ou gráfica. O formato é universal."
+    },
+    {
+      "q": "Como recebo o material após a compra?",
+      "a": "Assim que o pagamento for confirmado, você recebe imediatamente no seu e-mail o link de acesso. É instantâneo — sem esperar nada físico."
+    },
+    {
+      "q": "Isso é seguro? Tenho medo de ser golpe.",
+      "a": "Totalmente seguro. A compra é feita por plataforma oficial de pagamento, você recebe acesso na hora e ainda tem 30 dias de garantia total. Se não gostar, devolvemos tudo. O risco é zero."
+    },
+    {
+      "q": "Posso ganhar dinheiro de verdade com isso?",
+      "a": "Sim. Caixinhas cenário são produtos muito procurados, especialmente em datas comemorativas. Com o custo de produção sendo centavos, você consegue vender com margem alta e faturar ainda no primeiro dia."
+    }
+  ],
+  "c": "https://i.ibb.co/VYmYvyZM/Selo-Garantia.png",
+  "d": "../imagens/plano-completo-card.png",
+  "f": "../imagens/o-que-voce-recebe.png",
+  "h": [
+    {
+      "icon": "💰",
+      "title": "Baixíssimo Investimento",
+      "text": "Comece sua renda extra sem precisar investir muito em equipamentos ou materiais caros."
+    },
+    {
+      "icon": "⚡",
+      "title": "Pronto para Usar",
+      "text": "Tenha produtos para oferecer sem precisar criar os moldes do zero. É só imprimir e montar."
+    },
+    {
+      "icon": "📈",
+      "title": "Aumente seu Catálogo",
+      "text": "Já trabalha com personalizados? Adicione centenas de opções para diferentes clientes e ocasiões."
+    },
+    {
+      "icon": "🏠",
+      "title": "Trabalhe em Casa",
+      "text": "Comece com algo simples que possa fazer na sua mesa de casa, usando apenas impressora, cola e tesoura."
+    },
+    {
+      "icon": "🎯",
+      "title": "Alta Lucratividade",
+      "text": "O custo de produção é de centavos e a margem de venda é alta. Lucro real no seu bolso."
+    }
+  ],
+  "i": "https://ggcheckout.app/checkout/v5/imT5C7uzQ3JUl0h1odNV",
+  "l": [
+    "Quer começar uma renda extra sem investir muito.",
+    "Gosta de artesanato, personalizados ou papelaria.",
+    "Quer ter produtos para oferecer sem criar os moldes do zero.",
+    "Já trabalha com personalizados e quer aumentar seu catálogo.",
+    "Quer começar com algo simples que possa fazer em casa.",
+    "Quer ter centenas de opções para diferentes clientes e ocasiões."
+  ],
+  "m": [
+    "../imagens/topo-bolo-1.webp",
+    "../imagens/topo-bolo-2.webp",
+    "../imagens/topo-bolo-3.webp",
+    "../imagens/topo-bolo-4.webp",
+    "../imagens/topo-bolo-5.webp",
+    "../imagens/topo-bolo-6.webp",
+    "../imagens/topo-bolo-7.webp",
+    "../imagens/topo-bolo-8.webp"
+  ],
+  "n": [
+    {
+      "index": 1,
+      "title": "POLAROIDS DE AMOR",
+      "text": "Produto encantador e muito procurado para datas especiais — ideal para presentear e emocionar. Fácil de vender e com alto valor percebido para o cliente.",
+      "price": "R$27",
+      "image": "../imagens/bonus-polaroids.png"
+    },
+    {
+      "index": 2,
+      "title": "PORTA CANECA CORAÇÃO",
+      "text": "Um produto fofo, funcional e cheio de apelo emocional — perfeito para presentear e vender em qualquer época do ano sem dificuldade.",
+      "price": "R$27",
+      "image": "../imagens/porta-caneca-coracao-new.png"
+    },
+    {
+      "index": 3,
+      "title": "QUADRO DE RECORDAÇÕES",
+      "text": "Transforme memórias em produto — um item com alto valor sentimental que as pessoas adoram comprar e presentear em momentos especiais.",
+      "price": "R$37",
+      "image": "../imagens/quadro-recordacoes.png"
+    },
+    {
+      "index": 4,
+      "title": "CAIXA CARA METADE",
+      "text": "Um produto apaixonante e super vendável para datas comemorativas — perfeito para quem quer diversificar o catálogo e aumentar o faturamento com algo diferenciado.",
+      "price": "R$37",
+      "image": "../imagens/caixa-cara-metade-new.png"
+    },
+    {
+      "index": 5,
+      "title": "KIT PRIMEIRA VENDA",
+      "text": "Tudo o que você precisa para fazer sua primeira venda — mesmo sem ter vendido nada antes. Um direcionamento simples e direto para você sair do zero.",
+      "price": "R$37",
+      "image": "../imagens/kit-primeira-venda-new.png"
+    },
+    {
+      "index": 6,
+      "title": "100 FORMAS DE POSTAR + PLANNER 30 DIAS",
+      "text": "100 ideias prontas de posts e um planner de 30 dias para você divulgar no WhatsApp e Instagram sem travar e sem ficar sem assunto.",
+      "price": "R$47",
+      "image": "../imagens/bonus-100-formas-postar-v3.png"
+    },
+    {
+      "index": 7,
+      "title": "100 MENSAGENS PRONTAS PARA VENDER",
+      "text": "Copie, cole no WhatsApp e chame clientes na hora — sem precisar pensar no que escrever ou ter medo de parecer chata.",
+      "price": "R$37",
+      "image": "../imagens/bonus-mensagens.png"
+    },
+    {
+      "index": 8,
+      "title": "+400 FIGURINHAS PRONTAS PARA DIVULGAÇÃO",
+      "text": "Mais de 400 figurinhas prontas para usar nos stories e chamar atenção para seus produtos na hora — sem precisar criar nada.",
+      "price": "R$27",
+      "image": "../imagens/bonus-figurinhas-v2.png"
+    },
+    {
+      "index": 9,
+      "title": "TOPOS DE BOLO PERSONALIZADOS",
+      "text": "Produtos muito procurados e fáceis de vender — especialmente em datas especiais e festas. Mais uma fonte de renda na sua mão.",
+      "price": "R$37",
+      "image": "../imagens/bonus-topos-bolo-v6.png"
+    },
+    {
+      "index": 10,
+      "title": "MOLDES DE QUEBRA-CABEÇA PERSONALIZADO",
+      "text": "Mais um produto pronto para vender, diversificar suas ofertas e aumentar sua renda sem precisar criar do zero.",
+      "price": "R$27",
+      "image": "../imagens/bonus-quebra-cabeca-new.png"
+    }
+  ],
+  "o": [
+    "+2.000 Moldes Prontos para Imprimir e Vender",
+    "Videoaula Passo a Passo de Montagem",
+    "BÔNUS: Polaroids do Amor",
+    "BÔNUS: Porta-Caneca Coração",
+    "BÔNUS: Quadro de Recordações",
+    "BÔNUS: Caixa Carta Metade",
+    "BÔNUS: 100 Formas de Postar + Planner 30 Dias",
+    "BÔNUS: Kit Primeira Venda",
+    "BÔNUS: +400 Figurinhas Prontas para Divulgação",
+    "BÔNUS: 100 Mensagens Prontas para Vender",
+    "BÔNUS: Moldes de Quebra-Cabeça",
+    "BÔNUS: Topos de Bolo"
+  ],
+  "p": [
+    "../imagens/topo-bolo-extra-1.webp",
+    "../imagens/topo-bolo-extra-2.webp",
+    "../imagens/topo-bolo-extra-3.webp",
+    "../imagens/topo-bolo-extra-4.webp",
+    "../imagens/topo-bolo-extra-5.webp",
+    "../imagens/topo-bolo-extra-6.webp",
+    "../imagens/topo-bolo-extra-7.webp",
+    "../imagens/topo-bolo-extra-8.webp"
+  ],
+  "r": [
+    "../imagens/caixinha-1.webp",
+    "../imagens/caixinha-2.webp",
+    "../imagens/caixinha-3.webp",
+    "../imagens/caixinha-4.webp",
+    "../imagens/caixinha-5.webp",
+    "../imagens/caixinha-6.webp",
+    "../imagens/caixinha-7.webp",
+    "../imagens/caixinha-8.webp",
+    "../imagens/caixinha-9.webp"
+  ],
+  "s": [
+    "../imagens/galeria-1.png",
+    "../imagens/galeria-2.png",
+    "../imagens/galeria-3.png",
+    "../imagens/galeria-4.png",
+    "../imagens/galeria-5.jpg",
+    "../imagens/galeria-6.webp",
+    "../imagens/galeria-7.png",
+    "../imagens/galeria-8.png",
+    "../imagens/galeria-9.png",
+    "../imagens/galeria-10.png",
+    "../imagens/galeria-11.png",
+    "../imagens/galeria-12.png",
+    "../imagens/galeria-13.png",
+    "../imagens/galeria-14.png"
+  ],
+  "t": [
+    "300 Moldes de Caixinhas",
+    "Moldes prontos para imprimir",
+    "Acesso imediato"
+  ],
+  "u": [
+    "Infantil",
+    "Datas Comemorativas",
+    "Time de Futebol",
+    "Aniversários",
+    "Personagens",
+    "Masculino e Feminino",
+    "E muito mais.."
+  ]
+}

@@ -1,0 +1,112 @@
+@import "./original-styles.css";
+
+:root {
+  --background: #FFFFFF;
+  --foreground: #2A111E;
+  --card: #FFFFFF;
+  --card-foreground: #2A111E;
+  --popover: #FFFFFF;
+  --popover-foreground: #2A111E;
+  --primary: #FF4F81;
+  --primary-foreground: #FFFFFF;
+  --secondary: #FFB703;
+  --secondary-foreground: #381E00;
+  --muted: #FFF0F3;
+  --muted-foreground: #785A67;
+  --accent: #FFE5EC;
+  --accent-foreground: #FF4F81;
+  --destructive: #EF233C;
+  --destructive-foreground: #FFFFFF;
+  --border: #FFDCE3;
+  --input: #FFDCE3;
+  --ring: #FF4F81;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  color: var(--foreground);
+  background-color: var(--background);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Outfit', 'Plus Jakarta Sans', -apple-system, sans-serif;
+  letter-spacing: -0.02em;
+}
+
+::selection {
+  background-color: #FF4F81;
+  color: #FFFFFF;
+}
+
+@keyframes marquee-scroll-left {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+@keyframes marquee-scroll-right {
+  0% {
+    transform: translate3d(-50%, 0, 0);
+  }
+  100% {
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.animate-marquee-left {
+  display: flex;
+  width: max-content;
+  animation: marquee-scroll-left 55s linear infinite;
+  will-change: transform;
+}
+
+.animate-marquee-right {
+  display: flex;
+  width: max-content;
+  animation: marquee-scroll-right 55s linear infinite;
+  will-change: transform;
+}
+
+.animate-marquee-left:hover,
+.animate-marquee-right:hover {
+  animation-play-state: paused;
+}
+
+@keyframes testimonials-scroll {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+.animate-testimonials-track {
+  display: flex;
+  width: max-content;
+  align-items: center;
+  animation: testimonials-scroll 16s linear infinite;
+  will-change: transform;
+}
+
+@media (max-width: 640px) {
+  .animate-testimonials-track {
+    animation-duration: 10s;
+  }
+}
+
+.animate-testimonials-track.is-paused {
+  animation-play-state: paused !important;
+}
+
+@media (hover: hover) {
+  .animate-testimonials-track:hover {
+    animation-play-state: paused;
+  }
+}
+
+
